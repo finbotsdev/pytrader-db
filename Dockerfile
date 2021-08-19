@@ -1,0 +1,1 @@
+FROM timescale/timescaledb:2.4.1-pg13
